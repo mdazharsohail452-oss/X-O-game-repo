@@ -3,7 +3,7 @@ X-O Game (Tic Tac Toe)
 A simple, interactive X-O (Tic Tac Toe) game built using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces in a 3×3 grid, with the goal of placing three marks in a row, column, or diagonal.
 
 Features
-Responsive and clean UI using HTML5 and CSS3.
+Responsive and clean UI using HTML and CSS.
 
 Two-player mode (Player X and Player O).
 
@@ -16,9 +16,9 @@ Restart button to reset the game board instantly.
 Smooth animations and color transitions for better UX.
 
 Technologies Used
-HTML5 for structure
+HTML for structure
 
-CSS3 for styling and responsiveness
+CSS for styling and responsiveness
 
 JavaScript (ES6) for game logic and interactivity
 
